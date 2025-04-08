@@ -1,0 +1,9 @@
+providers:
+  - id: mistral
+    label: Mistral Ollama
+    config:
+      baseUrl: http://localhost:11434
+      model: mistral
+prompts:
+  - "Write a haiku about the ocean."
+  - "Explain recursion simply"
