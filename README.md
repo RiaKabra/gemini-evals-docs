@@ -6,7 +6,6 @@ This repository contains documentation, code examples, and evaluations for the G
 ## Structure
 
 - `docs/`: Reference documentation for Gemini models and parameters.
-- `examples/`: Scripts for multimodal usage and evaluation with wandb.
 - `.env.example`: Template for your API key (do not commit real keys).
 - `promptfoo.yaml`: Sample config for prompt-based evaluation.
 - `proposal.pdf`: Your GSoC proposal.
