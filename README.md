@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Gemini Evals Documentation (GSoC 2025)
 
 This repository contains documentation, code examples, and evaluations for the Gemini APIs, as part of Google Summer of Code 2025.
@@ -25,4 +25,3 @@ pip install google-generativeai wandb textstat
 # Improving Evaluation Documentation for Gemini APIs – GSoC 2025
 
 This is my Google Summer of Code (GSoC) 2025 project proposal with Google DeepMind. The goal of this project is to expand documentation, tutorials, and code examples that help researchers and developers evaluate Google's Gemini models using tools like `promptfoo`, `wandb`, and other LLM eval frameworks.
->>>>>>> b5ced2d658fe5c43e2cf5d0ff20c6fc17b7d032a
